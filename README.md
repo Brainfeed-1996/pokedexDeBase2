@@ -1,2 +1,1 @@
-# pokedexDeBase2
-Une nouvelle version de mon pokédex où les informations s'affichent dans une nouvelle page
+# Deprecated / Consolidated\n\nThis repository has been consolidated into:\n\n- **ultimate-pokedex-collection** → https://github.com/Brainfeed-1996/ultimate-pokedex-collection\n\nThis repo is kept for historical reference and is archived.\n
